@@ -16,9 +16,22 @@ This is from the Author's diligence and not something official to follow
 Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics.
 Below, you'll find categories for every topic and many helpful links
 
+# 🪵 Fundmentals
 
-### Languages
-WIP
+
+# 🈯 Languages
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="25px"/> Kotlin
+  * [Official kotlin website](https://kotlinlang.org/docs/getting-started.html)
+  * [Youtube Kotlin course under 3 Hours](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) by [@freecodecamp](https://github.com/freecodecamp)
+
+## <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25px"/> Java
+* [Getting started with W3Schools](https://www.w3schools.com/java/java_getstarted.asp)
+* [Youtube Java course](https://www.youtube.com/watch?v=A74TOX803D0&ab_channel=freeCodeCamp.org) by [@freecodecamp](https://github.com/freecodecamp)
+  
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="25px"/> C++
+* [Add C & C++ to project By developers.android](https://developer.android.com/studio/projects/add-native-code)
+ 
 
 ### Libraries
 
