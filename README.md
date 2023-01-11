@@ -13,7 +13,8 @@ This is from the Author's diligence and not something official to follow
 
 
 ## How to use it
-Up to down, use color coding to know the hardness of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics.
+Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics.
+Below, you'll find categories for every topic and many helpful links
 
 
 ### Languages
@@ -31,6 +32,10 @@ WIP
 WIP
 ### Blogs
 WIP
+### Interviews
+
+### Problem solving
+
 
 ## Inspired By
 WIP
