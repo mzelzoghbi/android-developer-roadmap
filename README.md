@@ -16,14 +16,24 @@ This is from the Author's diligence and not something official to follow
 Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics.
 Below, you'll find categories for every topic and many helpful links
 
-# 🪵 Fundmentals
 
+## New to software engineering?!
+If you are new to software engineers, don't have enough experience. I'd recommend kicking off your learning path by checking [CS50 Course from Harvard](https://www.youtube.com/watch?v=IDDmrzzB14M&t=688s&ab_channel=CS50) you'll learn the entry point to Computer Science world
+
+# 🪵 Fundmentals
+## Data Structures
+* [Intro to Data Structures and Algorithms by **Udacity**](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+* [Data Structures by **geeksforgeeks**](https://www.geeksforgeeks.org/data-structures/) 
+
+## OOP
+
+## Gradle build system
 
 # 🈯 Languages
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="25px"/> Kotlin
   * [Official kotlin website](https://kotlinlang.org/docs/getting-started.html)
-  * [Youtube Kotlin course under 3 Hours](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) by [@freecodecamp](https://github.com/freecodecamp)
+  * [Youtube Kotlin course under 3 Hours](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) by **[@freecodecamp](https://github.com/freecodecamp)**
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25px"/> Java
 * [Getting started with W3Schools](https://www.w3schools.com/java/java_getstarted.asp)
