@@ -127,6 +127,44 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 # 📡 Networking
 * [Connect to the network](https://developer.android.com/training/basics/network-ops/connecting)
 
+# 💾 Storage/Caching
+* [App data and files](https://developer.android.com/guide/topics/data)
+* [Save data in a local database using Room](https://developer.android.com/training/data-storage/room)
+* [Save data using SQLite](https://developer.android.com/training/data-storage/sqlite)
+
+# ♾️ Threading
+* [Looper](https://developer.android.com/reference/android/os/Looper)
+* [Processes and threads overview](https://developer.android.com/guide/components/processes-and-threads)
+* [Work Manager](https://developer.android.com/topic/libraries/architecture/workmanager)
+* [Thread Pool Executor](https://developer.android.com/reference/java/util/concurrent/ThreadPoolExecutor)
+* [Better performance through threading](https://developer.android.com/topic/performance/threads)
+* [Kotlin Flows](https://developer.android.com/kotlin/flow)
+* [Kotlin coroutines on Android](https://developer.android.com/kotlin/coroutines)
+
+# 🧩 Architecture Patterns
+* [Guide to App Architecture](https://developer.android.com/topic/architecture)
+* [Design Patterns](https://www.kodeco.com/18409174-common-design-patterns-and-app-architectures-for-android)
+* [Dependency Injection in Android](https://developer.android.com/training/dependency-injection)
+* [Reactive Programming for Android](https://medium.com/android-news/reactive-programming-for-android-d55bdbb438b4)
+
+# 📊 Performance
+* [Memory Profiler](https://developer.android.com/studio/profile/memory-profiler)
+* [The Android Profiler](https://developer.android.com/studio/profile/android-profiler)
+* [Benchmark your app](https://developer.android.com/topic/performance/benchmarking/benchmarking-overview)
+* 
+
+# 🔐 Security
+* [Proguard](https://developer.android.com/studio/build/shrink-code)
+* [Security Tips](https://developer.android.com/training/articles/security-tips)
+* [App security best practices](https://developer.android.com/topic/security/best-practices)
+* [Reverse Engineering](https://www.ragingrock.com/AndroidAppRE/)
+
+
+# 🤖 CI/CD
+*
+
+# 🚀 Release
+
 
 ### Libraries
 
@@ -142,8 +180,9 @@ WIP
 * [Now in Android](https://nowinandroid.libsyn.com/)
 * [Apps, Games & Insights](https://developer.android.com/podcasts/apps-games-insights)
 
-### Blogs
-WIP
+# 📰 Blogs & Newsletters
+* [Android Weekly](https://androidweekly.net/)
+* [Pro Android Dev](https://proandroiddev.com/)
 
 ### Interviews
 
@@ -155,8 +194,15 @@ WIP
 
 
 
-## Author(s)
+## Author
 [Mohamed Zakaria](https://github.com/mzelzoghbi)
+
+## Support
+If you would like to support the repo, you can optionally buy be me a coffee. Thank you for all the wonderful support ❤️
+
+<a href="https://www.buymeacoffee.com/engzak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 
 # 📝 License
 ```MIT License
