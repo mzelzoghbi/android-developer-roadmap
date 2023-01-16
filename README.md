@@ -58,6 +58,73 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Add C & C++ to project By developers.android](https://developer.android.com/studio/projects/add-native-code)
  
 
+# ⚙️ Tools
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" width="25px"/> Terminal
+
+* [Linux Command Line Tutorial For Beginners](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="25px"/> Android Studio
+* [Introduction to Android Studio](https://www.youtube.com/watch?v=NCoekcDxbrI)
+* [Meet Android Studio](https://developer.android.com/studio/intro)
+
+## <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"/> Version Control (Git)
+* [Learn Git and Github](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+* [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+# 🏗️ Project Structure
+* [Android project directory structure | manifests directory |resource directory | layout directory
+](https://www.youtube.com/watch?v=B1fbOrlhXBE)
+* [Projects overview](https://developer.android.com/studio/projects)
+
+# <img src="android-symbol.png" width="25px"/> Android
+## Platform Architecture
+* [Platform Architecture](https://developer.android.com/guide/platform)
+* [Android Architecture Explained in Detail](https://www.youtube.com/watch?v=WvwQal6WYJ0)
+
+## Services
+* [Services Overview](https://developer.android.com/guide/components/services)
+
+## Entry point / Navigation
+* [Principles of navigation](https://developer.android.com/guide/navigation/navigation-principles)
+
+## Notifications
+* [Notifications Overview](https://developer.android.com/develop/ui/views/notifications)
+
+## Content Providers
+* [Content providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en)
+
+## Lifecycle 
+* [Handling Lifecycles with Lifecycle-Aware Components](https://developer.android.com/topic/libraries/architecture/lifecycle?hl=en)
+
+## Broadcast Receivers
+* [Broadcasts overview](https://developer.android.com/guide/components/broadcasts?hl=en)
+
+## Intent filters
+* [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters)
+
+
+# 🎨 UI
+
+## Design guidelines
+* [Android Design Guide lines](https://developer.android.com/design)
+
+## Activities
+* [Introduction to activities](https://developer.android.com/guide/components/activities/intro-activities)
+
+## Fragments
+* [Fragments](https://developer.android.com/guide/fragments)
+
+## UI Components
+* [Build a Responsive UI with ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout)
+
+## Compose
+* [Get started with Compose](https://developer.android.com/jetpack/compose)
+
+## Custom Views
+* [Create a custom view](https://developer.android.com/develop/ui/views/layout/custom-views/create-view)
+
+
 ### Libraries
 
 WIP
