@@ -1,11 +1,13 @@
 <h1 align="center"><image src="android-symbol.png" width="150px"/></h1> 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
-<img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/>
+<h3 align="center"> 
+ 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
+ <img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="20px"/>
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px"/></h3> 
 
 <h1 align="center">Android developer roadmap</h1>
 
@@ -16,7 +18,10 @@ This contains all topics to help you find what you are looking for quickly
 
 
 ### Disclaimer
-This is from the Author's diligence and not something official to follow
+This is from the Author's diligence, so i may be biased to what i like 🙈
+
+### Contribution 
+This repo is open to contributions if you found something useful, please add it, if you have any questions, suggestions let's have it over [Issues](https://github.com/mzelzoghbi/android-developer-roadmap/issues) 
 
 ## Roadmap
 <image src="Android Developer roadmap 2023.png"/>
@@ -29,6 +34,7 @@ Below, you'll find categories for every topic and many helpful links
 
 ## New to software engineering?!
 If you are new to software engineers, don't have enough experience. I'd recommend kicking off your learning path by checking [CS50 Course from Harvard](https://www.youtube.com/watch?v=IDDmrzzB14M&t=688s&ab_channel=CS50) you'll learn the entry point to Computer Science world
+
 
 # 🪵 Fundmentals
 ## Data Structures
