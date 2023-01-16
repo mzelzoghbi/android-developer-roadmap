@@ -19,7 +19,7 @@ This contains all topics to help you find what you are looking for quickly
 This is from the Author's diligence and not something official to follow
 
 ## Roadmap
-<image src="Android roadmap v2.png"/>
+<image src="Android Developer roadmap 2023.png"/>
 
 
 ## How to use it
