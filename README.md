@@ -124,6 +124,9 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 ## Custom Views
 * [Create a custom view](https://developer.android.com/develop/ui/views/layout/custom-views/create-view)
 
+# 📡 Networking
+* [Connect to the network](https://developer.android.com/training/basics/network-ops/connecting)
+
 
 ### Libraries
 
@@ -134,8 +137,10 @@ WIP
 ### Products
 WIP
 
-### Podcasts
-WIP
+# 🎙️ Podcasts
+* [Android developer backstage](https://adbackstage.libsyn.com/)
+* [Now in Android](https://nowinandroid.libsyn.com/)
+* [Apps, Games & Insights](https://developer.android.com/podcasts/apps-games-insights)
 
 ### Blogs
 WIP
