@@ -12,7 +12,6 @@
 <h1 align="center">Android developer roadmap</h1>
 
 
-
 Welcome to Android Developer Roadmap 2023.01, The main purpose of this roadmap is to help any one who wants to kick off his android career or to level up his experience and knowledge.
 This contains all topics to help you find what you are looking for quickly
 
@@ -21,10 +20,62 @@ This contains all topics to help you find what you are looking for quickly
 This is from the Author's diligence, so i may be biased to what i like 🙈
 
 ### Contribution 
-This repo is open to contributions if you found something useful, please add it, if you have any questions, suggestions let's have it over [Issues](https://github.com/mzelzoghbi/android-developer-roadmap/issues) 
+This repo is open to contributions if you found a blog, tutorial that looks useful or even if you are a blogger or instructor feel free to include your material directly by submitting a pull request.
+If you have any questions, suggestions let's have it over [Issues](https://github.com/mzelzoghbi/android-developer-roadmap/issues)
 
 ## Roadmap
 <image src="Android Developer roadmap 2023.png"/>
+
+
+- [🪵 Fundmentals](#🪵-fundmentals)
+  * [Data Structures](#data-structures)
+  * [OOP](#oop)
+  * [Gradle build system](#gradle-build-system)
+- [🈯 Languages](#🈯 languages)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="25px"/> Kotlin](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-0-06-kotlin-iconsvg-2048px-kotlin-iconsvgpng--width--25px----kotlin)
+  * [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25px"/> Java](#-img-src--https---cdn-icons-pngflaticoncom-512-226-226777png--width--25px----java)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="25px"/> C++](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-1-18-iso-c-2b-2b-logosvg-1822px-iso-c-2b-2b-logosvgpng--width--25px----c--)
+- [⚙️ Tools](#---tools)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" width="25px"/> Terminal](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-5-51-windows-terminal-logosvg-2560px-windows-terminal-logosvgpng--width--25px----terminal)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="25px"/> Android Studio](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-9-95-android-studio-icon-36svg-1900px-android-studio-icon-36svgpng--width--25px----android-studio)
+  * [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"/> Version Control (Git)](#-img-src--https---git-scmcom-images-logos-downloads-git-icon-1788cpng--width--25px----version-control--git-)
+- [🏗️ Project Structure](#----project-structure)
+- [<img src="android-symbol.png" width="25px"/> Android](#-img-src--android-symbolpng--width--25px----android)
+  * [Platform Architecture](#platform-architecture)
+  * [Services](#services)
+  * [Entry point / Navigation](#entry-point---navigation)
+  * [Notifications](#notifications)
+  * [Content Providers](#content-providers)
+  * [Lifecycle](#lifecycle)
+  * [Broadcast Receivers](#broadcast-receivers)
+  * [Intent filters](#intent-filters)
+  * [Sensors](#sensors)
+  * [Permissions](#permissions)
+- [🎨 UI](#---ui)
+  * [Design guidelines](#design-guidelines)
+  * [Activities](#activities)
+  * [Fragments](#fragments)
+  * [UI Components](#ui-components)
+  * [Compose](#compose)
+  * [Custom Views](#custom-views)
+- [📡 Networking](#---networking)
+- [💾 Storage/Caching](#---storage-caching)
+- [♾️ Threading](#---threading)
+- [🧩 Architecture Patterns](#---architecture-patterns)
+- [📊 Performance](#---performance)
+- [🔐 Security](#---security)
+- [🤖 CI/CD](#---ci-cd)
+- [🚀 Release](#---release)
+    + [Libraries](#libraries)
+    + [Tools](#tools)
+    + [Products](#products)
+- [🎙️ Podcasts](#----podcasts)
+- [📰 Blogs & Newsletters](#---blogs---newsletters)
+    + [Interviews](#interviews)
+    + [Problem solving](#problem-solving)
+  * [Inspired By](#inspired-by)
+  * [Author](#author)
+  * [Support](#support)
 
 
 ## How to use it
