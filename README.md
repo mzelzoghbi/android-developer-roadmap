@@ -3,11 +3,11 @@
 <h3 align="center"> 
  
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
-<a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
-<a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
-<a href="https://www.instagram.com/eng.zak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px"/></a>
-<a href="https://www.facebook.com/eng.ziko"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="20px"/></a>
-<a href="https://twitter.com/eng_zak_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px"/></a></h3> 
+<a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px" width="20px"/></a>
+<a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px" width="20px"/></a>
+<a href="https://www.instagram.com/eng.zak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" width="20px"/></a>
+<a href="https://www.facebook.com/eng.ziko"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" width="20px"/></a>
+<a href="https://twitter.com/eng_zak_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" width="20px"/></a></h3> 
 
 <h1 align="center">Android developer roadmap</h1>
 
@@ -31,16 +31,16 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * [Data Structures](#data-structures)
   * [OOP](#oop)
   * [Gradle build system](#gradle-build-system)
-- [🈯 Languages](#🈯 languages)
-  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="25px"/> Kotlin](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-0-06-kotlin-iconsvg-2048px-kotlin-iconsvgpng--width--25px----kotlin)
-  * [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25px"/> Java](#-img-src--https---cdn-icons-pngflaticoncom-512-226-226777png--width--25px----java)
-  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="25px"/> C++](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-1-18-iso-c-2b-2b-logosvg-1822px-iso-c-2b-2b-logosvgpng--width--25px----c--)
+- [🈯 Languages](#languages)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" height="20px" width="20px"/> Kotlin](#kotlin)
+  * [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px" width="20px"/> Java](#java)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="20px" width="20px"/> C++](#c)
 - [⚙️ Tools](#---tools)
-  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" width="25px"/> Terminal](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-5-51-windows-terminal-logosvg-2560px-windows-terminal-logosvgpng--width--25px----terminal)
-  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="25px"/> Android Studio](#-img-src--https---uploadwikimediaorg-wikipedia-commons-thumb-9-95-android-studio-icon-36svg-1900px-android-studio-icon-36svgpng--width--25px----android-studio)
-  * [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"/> Version Control (Git)](#-img-src--https---git-scmcom-images-logos-downloads-git-icon-1788cpng--width--25px----version-control--git-)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" height="20px" width="20px"/> Terminal](#terminal)
+  * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" height="20px" width="20px"/> Android Studio](#android-studio)
+  * [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="20px" width="20px"/> Version Control (Git)](#version-control-git)
 - [🏗️ Project Structure](#----project-structure)
-- [<img src="android-symbol.png" width="25px"/> Android](#-img-src--android-symbolpng--width--25px----android)
+- [<img src="android-symbol.png" height="20px" width="20px"/> Android](#android)
   * [Platform Architecture](#platform-architecture)
   * [Services](#services)
   * [Entry point / Navigation](#entry-point---navigation)
@@ -64,18 +64,16 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 - [🧩 Architecture Patterns](#---architecture-patterns)
 - [📊 Performance](#---performance)
 - [🔐 Security](#---security)
-- [🤖 CI/CD](#---ci-cd)
+- [🤖 CI/CD](#ci-cd)
 - [🚀 Release](#---release)
     + [Libraries](#libraries)
     + [Tools](#tools)
     + [Products](#products)
-- [🎙️ Podcasts](#----podcasts)
+- [🎙️ Podcasts](#podcasts)
 - [📰 Blogs & Newsletters](#---blogs---newsletters)
-    + [Interviews](#interviews)
-    + [Problem solving](#problem-solving)
-  * [Inspired By](#inspired-by)
-  * [Author](#author)
-  * [Support](#support)
+- [🧑‍💻 Interviews](#interviews)
+- [🧠 Problem solving](#problem-solving)
+
 
 
 ## How to use it
@@ -103,28 +101,28 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 
 # 🈯 Languages
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="25px"/> Kotlin
+## Kotlin
   * [Official kotlin website](https://kotlinlang.org/docs/getting-started.html)
   * [Youtube Kotlin course under 3 Hours](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) by **[@freecodecamp](https://github.com/freecodecamp)**
 
-## <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25px"/> Java
+## Java
 * [Getting started with W3Schools](https://www.w3schools.com/java/java_getstarted.asp)
 * [Youtube Java course](https://www.youtube.com/watch?v=A74TOX803D0&ab_channel=freeCodeCamp.org) by [@freecodecamp](https://github.com/freecodecamp)
   
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="25px"/> C++
+## C++
 * [Add C & C++ to project By developers.android](https://developer.android.com/studio/projects/add-native-code)
  
 
 # ⚙️ Tools
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" width="25px"/> Terminal
+## Terminal
 
 * [Linux Command Line Tutorial For Beginners](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="25px"/> Android Studio
+## Android Studio
 * [Introduction to Android Studio](https://www.youtube.com/watch?v=NCoekcDxbrI)
 * [Meet Android Studio](https://developer.android.com/studio/intro)
 
-## <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"/> Version Control (Git)
+## Version Control (Git)
 * [Learn Git and Github](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 * [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
@@ -134,7 +132,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 ](https://www.youtube.com/watch?v=B1fbOrlhXBE)
 * [Projects overview](https://developer.android.com/studio/projects)
 
-# <img src="android-symbol.png" width="25px"/> Android
+# Android
 ## Platform Architecture
 * [Platform Architecture](https://developer.android.com/guide/platform)
 * [Android Architecture Explained in Detail](https://www.youtube.com/watch?v=WvwQal6WYJ0)
@@ -186,15 +184,15 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 ## Custom Views
 * [Create a custom view](https://developer.android.com/develop/ui/views/layout/custom-views/create-view)
 
-# 📡 Networking
+# Networking
 * [Connect to the network](https://developer.android.com/training/basics/network-ops/connecting)
 
-# 💾 Storage/Caching
+# Storage/Caching
 * [App data and files](https://developer.android.com/guide/topics/data)
 * [Save data in a local database using Room](https://developer.android.com/training/data-storage/room)
 * [Save data using SQLite](https://developer.android.com/training/data-storage/sqlite)
 
-# ♾️ Threading
+# Threading
 * [Looper](https://developer.android.com/reference/android/os/Looper)
 * [Processes and threads overview](https://developer.android.com/guide/components/processes-and-threads)
 * [Work Manager](https://developer.android.com/topic/libraries/architecture/workmanager)
@@ -203,29 +201,29 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Kotlin Flows](https://developer.android.com/kotlin/flow)
 * [Kotlin coroutines on Android](https://developer.android.com/kotlin/coroutines)
 
-# 🧩 Architecture Patterns
+# Architecture Patterns
 * [Guide to App Architecture](https://developer.android.com/topic/architecture)
 * [Design Patterns](https://www.kodeco.com/18409174-common-design-patterns-and-app-architectures-for-android)
 * [Dependency Injection in Android](https://developer.android.com/training/dependency-injection)
 * [Reactive Programming for Android](https://medium.com/android-news/reactive-programming-for-android-d55bdbb438b4)
 
-# 📊 Performance
+# Performance
 * [Memory Profiler](https://developer.android.com/studio/profile/memory-profiler)
 * [The Android Profiler](https://developer.android.com/studio/profile/android-profiler)
 * [Benchmark your app](https://developer.android.com/topic/performance/benchmarking/benchmarking-overview)
 * 
 
-# 🔐 Security
+# Security
 * [Proguard](https://developer.android.com/studio/build/shrink-code)
 * [Security Tips](https://developer.android.com/training/articles/security-tips)
 * [App security best practices](https://developer.android.com/topic/security/best-practices)
 * [Reverse Engineering](https://www.ragingrock.com/AndroidAppRE/)
 
 
-# 🤖 CI/CD
+# CI/CD
 *
 
-# 🚀 Release
+# Release
 
 
 ### Libraries
@@ -237,19 +235,19 @@ WIP
 ### Products
 WIP
 
-# 🎙️ Podcasts
+# Podcasts
 * [Android developer backstage](https://adbackstage.libsyn.com/)
 * [Now in Android](https://nowinandroid.libsyn.com/)
 * [Apps, Games & Insights](https://developer.android.com/podcasts/apps-games-insights)
 
-# 📰 Blogs & Newsletters
+# Blogs & Newsletters
 * [Android Weekly](https://androidweekly.net/)
 * [Pro Android Dev](https://proandroiddev.com/)
 
 ### Interviews
 
 ### Problem solving
-
+* https://leetcode.com/
 
 ## Inspired By
 WIP
