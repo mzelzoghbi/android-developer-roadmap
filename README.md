@@ -211,7 +211,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Memory Profiler](https://developer.android.com/studio/profile/memory-profiler)
 * [The Android Profiler](https://developer.android.com/studio/profile/android-profiler)
 * [Benchmark your app](https://developer.android.com/topic/performance/benchmarking/benchmarking-overview)
-* 
+
 
 # Security
 * [Proguard](https://developer.android.com/studio/build/shrink-code)
@@ -221,19 +221,36 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 
 
 # CI/CD
-*
+* [Building CI/CD for an Android Project](https://proandroiddev.com/building-a-ci-cd-pipeline-for-an-android-project-51c2291a428c)
 
 # Release
-
+* [Publish your app](https://developer.android.com/studio/publish)
 
 ### Libraries
+* [Creating android library](https://developer.android.com/studio/projects/android-library)
+* [Android Arsenal - place to find new libraries](https://android-arsenal.com/)
+* [android-library topic on Github](https://github.com/topics/android-library)
+* [Awesome Android repo](https://github.com/JStumpp/awesome-android)
 
-WIP
-### Tools
 
-WIP
-### Products
-WIP
+
+## Products
+### Application performance monitoring
+* [Instabug](https://instabug.com)
+* [Firebase Performance](https://firebase.google.com/docs/perf-mon/get-started-android)
+* [Embrace](https://embrace.io/)
+
+### Crash Reporting
+* [Instabug](https://instabug.com)
+* [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics)
+* [Sentry](https://sentry.io/)
+* [Bugsnag](https://www.bugsnag.com/)
+
+### Debugging
+* [AppSpector](https://appspector.com/) remote app debugging
+* [Charles](https://www.charlesproxy.com/) for local Network interception
+* [Httptoolkit](https://httptoolkit.com/) for local Network interception
+* [Stetho by Facebook](https://github.com/facebook/stetho) for local app debugging / inspection
 
 # Podcasts
 * [Android developer backstage](https://adbackstage.libsyn.com/)
@@ -243,14 +260,19 @@ WIP
 # Blogs & Newsletters
 * [Android Weekly](https://androidweekly.net/)
 * [Pro Android Dev](https://proandroiddev.com/)
+* [Slides about Android by @gabrielbmoro](https://github.com/gabrielbmoro/slides-about-android-development)
 
 ### Interviews
+* [How to crack any Android Interview](https://zaplatform.com/how-to-crack-any-android-interview-3232569bf76f)
+* [Android interview Questions /Topics 2022 - Crack any android interview.](https://www.youtube.com/watch?v=dC-PsgYzruE&ab_channel=CodeWithBalwinder)
+
 
 ### Problem solving
 * https://leetcode.com/
 
 ## Inspired By
-WIP
+* [Roadmap.sh](https://roadmap.sh/android)
+* [Android developer roadmap by @skydoves](https://github.com/skydoves/android-developer-roadmap) 
 
 
 
