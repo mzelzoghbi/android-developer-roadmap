@@ -112,7 +112,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 
 ## Gradle build system
 * [Gradle for beginners](https://www.youtube.com/watch?v=o0M4f5djJTQ)
-* 
+
 
 # 🈯 Languages
 
