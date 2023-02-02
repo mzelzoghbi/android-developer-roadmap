@@ -16,17 +16,30 @@ Welcome to Android Developer Roadmap 2023.01, The main purpose of this roadmap i
 This contains all topics to help you find what you are looking for quickly
 
 
-### Disclaimer
+### 🗒️ Disclaimer
 This is from the Author's diligence, so i may be biased to what i like 🙈
 
-### Contribution 
+### ✨ Contribution 
 This repo is open to contributions if you found a blog, tutorial that looks useful or even if you are a blogger or instructor feel free to include your material directly by submitting a pull request.
 If you have any questions, suggestions let's have it over [Issues](https://github.com/mzelzoghbi/android-developer-roadmap/issues)
+<br/>
+<br/>
+<p align="center">
+<i>Loved the roadmap? Please consider <a href="https://paypal.me/mzelzoghbi/5">donating</a>  💸 to help it improve!</i>
+</p>
 
-## Roadmap
+
+
+<p align="center">
+<a href="https://www.paypal.me/mzelzoghbi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor android developer roadmap"/>
+</a>
+<a href="https://www.buymeacoffee.com/engzak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="22" width="100" style="border-radius:1px" />
+</p>
+
+## 🗺️ Roadmap
 <image src="ADR2023.png"/>
 
-## How to use it
+## ⁉ How to use it
 Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics. I recommend doing the projects #1 and #2 while learning, personally i feel practicing while learning makes more sense and give you more oppurtionity in understanding how really things work.
 Below, you'll find categories for every topic and many helpful links
 
@@ -60,26 +73,26 @@ If you are new to software engineers, don't have enough experience. I'd recommen
   * [Intent filters](#intent-filters)
   * [Sensors](#sensors)
   * [Permissions](#permissions)
-- [🎨 UI](#---ui)
+- [🎨 UI](#ui)
   * [Design guidelines](#design-guidelines)
   * [Activities](#activities)
   * [Fragments](#fragments)
   * [UI Components](#ui-components)
   * [Compose](#compose)
   * [Custom Views](#custom-views)
-- [📡 Networking](#---networking)
-- [💾 Storage/Caching](#---storage-caching)
-- [♾️ Threading](#---threading)
-- [🧩 Architecture Patterns](#---architecture-patterns)
-- [📊 Performance](#---performance)
-- [🔐 Security](#---security)
+- [📡 Networking](#networking)
+- [💾 Storage/Caching](#storagecaching)
+- [♾️ Threading](#threading)
+- [🧩 Architecture Patterns](#architecture-patterns)
+- [📊 Performance](#performance)
+- [🔐 Security](#security)
 - [🤖 CI/CD](#ci-cd)
-- [🚀 Release](#---release)
+- [🚀 Release](#release)
     + [Libraries](#libraries)
     + [Tools](#tools)
     + [Products](#products)
 - [🎙️ Podcasts](#podcasts)
-- [📰 Blogs & Newsletters](#---blogs---newsletters)
+- [📰 Blogs & Newsletters](#blogs--newsletters)
 - [🧑‍💻 Interviews](#interviews)
 - [🧠 Problem solving](#problem-solving)
 
