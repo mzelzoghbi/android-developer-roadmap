@@ -26,6 +26,15 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 ## Roadmap
 <image src="ADR2023.png"/>
 
+## How to use it
+Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics. I recommend doing the projects #1 and #2 while learning, personally i feel practicing while learning makes more sense and give you more oppurtionity in understanding how really things work.
+Below, you'll find categories for every topic and many helpful links
+
+
+## New to software engineering?!
+If you are new to software engineers, don't have enough experience. I'd recommend kicking off your learning path by checking [CS50 Course from Harvard](https://www.youtube.com/watch?v=IDDmrzzB14M&t=688s&ab_channel=CS50) you'll learn the entry point to Computer Science world
+
+## Table of contents
 
 - [🪵 Fundmentals](#🪵-fundmentals)
   * [Data Structures](#data-structures)
@@ -39,7 +48,7 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" height="20px" width="20px"/> Terminal](#terminal)
   * [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" height="20px" width="20px"/> Android Studio](#android-studio)
   * [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="20px" width="20px"/> Version Control (Git)](#version-control-git)
-- [🏗️ Project Structure](#----project-structure)
+- [🏗️ Project Structure](#project-structure)
 - [<img src="android-symbol.png" height="20px" width="20px"/> Android](#android)
   * [Platform Architecture](#platform-architecture)
   * [Services](#services)
@@ -76,13 +85,6 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 
 
 
-## How to use it
-Up to down, use color coding to know the topic's difficulty of the topic, green are easy/basic, yellow are intermediate and red are for advanced/hard topics.
-Below, you'll find categories for every topic and many helpful links
-
-
-## New to software engineering?!
-If you are new to software engineers, don't have enough experience. I'd recommend kicking off your learning path by checking [CS50 Course from Harvard](https://www.youtube.com/watch?v=IDDmrzzB14M&t=688s&ab_channel=CS50) you'll learn the entry point to Computer Science world
 
 
 # 🪵 Fundmentals
@@ -127,7 +129,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 * [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-# 🏗️ Project Structure
+# Project Structure
 * [Android project directory structure | manifests directory |resource directory | layout directory
 ](https://www.youtube.com/watch?v=B1fbOrlhXBE)
 * [Projects overview](https://developer.android.com/studio/projects)
