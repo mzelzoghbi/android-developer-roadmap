@@ -24,7 +24,7 @@ This repo is open to contributions if you found a blog, tutorial that looks usef
 If you have any questions, suggestions let's have it over [Issues](https://github.com/mzelzoghbi/android-developer-roadmap/issues)
 
 ## Roadmap
-<image src="Android Developer roadmap 2023.png"/>
+<image src="ADR2023.png"/>
 
 
 - [🪵 Fundmentals](#🪵-fundmentals)
