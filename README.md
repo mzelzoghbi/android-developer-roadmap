@@ -3,11 +3,11 @@
 <h3 align="center"> 
  
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
-<a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px" width="20px"/></a>
-<a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px" width="20px"/></a>
-<a href="https://www.instagram.com/eng.zak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" width="20px"/></a>
-<a href="https://www.facebook.com/eng.ziko"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" width="20px"/></a>
-<a href="https://twitter.com/eng_zak_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" width="20px"/></a></h3> 
+<a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
+<a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
+<a href="https://www.instagram.com/eng.zak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px"/></a>
+<a href="https://www.facebook.com/eng.ziko"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="20px"/></a>
+<a href="https://twitter.com/eng_zak_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px"/></a></h3> 
 
 <h1 align="center">Android developer roadmap</h1>
 
