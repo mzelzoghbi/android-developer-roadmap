@@ -2,7 +2,8 @@
 
 <h3 align="center"> 
  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
+ 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
 <a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
 <a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
 <a href="https://www.instagram.com/eng.zak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px"/></a>
@@ -65,7 +66,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 - [<img src="android-symbol.png" height="20px" width="20px"/> Android](#android)
   * [Platform Architecture](#platform-architecture)
   * [Services](#services)
-  * [Entry point / Navigation](#entry-point---navigation)
+  * [Entry point / Navigation](#entry-point--navigation)
   * [Notifications](#notifications)
   * [Content Providers](#content-providers)
   * [Lifecycle](#lifecycle)
@@ -86,10 +87,9 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 - [🧩 Architecture Patterns](#architecture-patterns)
 - [📊 Performance](#performance)
 - [🔐 Security](#security)
-- [🤖 CI/CD](#ci-cd)
+- [🤖 CI/CD](#cicd)
 - [🚀 Release](#release)
     + [Libraries](#libraries)
-    + [Tools](#tools)
     + [Products](#products)
 - [🎙️ Podcasts](#podcasts)
 - [📰 Blogs & Newsletters](#blogs--newsletters)
@@ -248,7 +248,6 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Awesome Android repo](https://github.com/JStumpp/awesome-android)
 
 
-
 ## Products
 ### Application performance monitoring
 * [Instabug](https://instabug.com)
@@ -296,6 +295,9 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 
 ## Support
 If you would like to support the repo, you can optionally buy be me a coffee. Thank you for all the wonderful support ❤️
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/mzelzoghbi/)
+
 
 <a href="https://www.buymeacoffee.com/engzak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
