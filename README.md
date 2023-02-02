@@ -18,7 +18,7 @@ This contains all topics to help you find what you are looking for quickly
 
 
 ### 🗒️ Disclaimer
-This is from the Author's diligence, so i may be biased to what i like 🙈
+This is from the Author's diligence and experience, so i may be biased to what i like 🙈
 
 ### ✨ Contribution 
 This repo is open to contributions if you found a blog, tutorial that looks useful or even if you are a blogger or instructor feel free to include your material directly by submitting a pull request.
