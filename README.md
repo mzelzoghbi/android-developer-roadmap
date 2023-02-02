@@ -1,4 +1,4 @@
-<h1 align="center"><image src="android-symbol.png" width="150px"/></h1> 
+<h1 align="center"><image src="Android logo pencil.png" width="350px"/></h1> 
 
 <h3 align="center"> 
  
