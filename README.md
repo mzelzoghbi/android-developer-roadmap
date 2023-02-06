@@ -95,7 +95,7 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 - [📰 Blogs & Newsletters](#blogs--newsletters)
 - [🧑‍💻 Interviews](#interviews)
 - [🧠 Problem solving](#problem-solving)
-
+- [📚 Book shelf](#book-shelf)
 
 
 
@@ -287,8 +287,13 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 ## Inspired By
 * [Roadmap.sh](https://roadmap.sh/android)
 * [Android developer roadmap by @skydoves](https://github.com/skydoves/android-developer-roadmap) 
+* [Android Developer Roadmap](https://trello.com/templates/engineering/android-developer-roadmap-fsc44tYh)
 
-
+## Book shelf
+* [Head First Android](https://www.amazon.com/dp/1491974052?geniuslink=true)
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?crid=24X0B72NBZUZE&keywords=clean+code&qid=1675673566&s=books&sprefix=clean+cod%2Cstripbooks-intl-ship%2C296&sr=1-1)
+* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_10?crid=24X0B72NBZUZE&keywords=clean+code&qid=1675673594&s=books&sprefix=clean+cod%2Cstripbooks-intl-ship%2C296&sr=1-10)
+* [Head first desgin patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=sr_1_1?crid=3PHKXS7V3P8MB&keywords=head+first+design+patterns&qid=1675673642&s=books&sprefix=head%2Cstripbooks-intl-ship%2C302&sr=1-1)
 
 ## Author
 [Mohamed Zakaria](https://github.com/mzelzoghbi)
