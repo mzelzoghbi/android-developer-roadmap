@@ -295,8 +295,10 @@ If you are new to software engineers, don't have enough experience. I'd recommen
 * [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_10?crid=24X0B72NBZUZE&keywords=clean+code&qid=1675673594&s=books&sprefix=clean+cod%2Cstripbooks-intl-ship%2C296&sr=1-10)
 * [Head first desgin patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=sr_1_1?crid=3PHKXS7V3P8MB&keywords=head+first+design+patterns&qid=1675673642&s=books&sprefix=head%2Cstripbooks-intl-ship%2C302&sr=1-1)
 
-## Author
-[Mohamed Zakaria](https://github.com/mzelzoghbi)
+## Contributers
+<a href="https://github.com/mzelzoghbi/android-developer-roadmap/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=mzelzoghbi/android-developer-roadmap" />
+</a>
 
 ## Support
 If you would like to support the repo, you can optionally buy be me a coffee. Thank you for all the wonderful support ❤️
