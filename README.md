@@ -2,7 +2,12 @@
 
 <h3 align="center"> 
  
- 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/mzelzoghbi/android-developer-roadmap)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/mzelzoghbi/android-developer-roadmap)
+![GitHub Repo stars](https://img.shields.io/github/stars/mzelzoghbi/android-developer-roadmap)
+![GitHub last commit](https://img.shields.io/github/last-commit/mzelzoghbi/android-developer-roadmap)
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mzelzoghbi.android-developer-roadmap)
 <a href="https://www.linkedin.com/in/engmohamedzakaria/"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
 <a href="https://medium.com/@eng.zak"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
